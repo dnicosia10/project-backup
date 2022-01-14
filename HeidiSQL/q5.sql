@@ -1,0 +1,3 @@
+SELECT * FROM entities_types
+
+INSERT INTO entities_types (UUID, type, description, created, updated) VALUES	(UUID(), 'SSS', 'The Social Security System (SSS) administers social security protection to workers in the private sector. Social security provides replacement income for workers in times of death, disability, sickness, maternity and old age. ... The SSS is a government financial institution in the Philippines.', NOW(), NOW())

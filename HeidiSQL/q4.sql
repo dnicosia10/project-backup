@@ -1,0 +1,1 @@
+SELECT * FROM blog_post_categories bpc WHERE bpc.category_id = 2
